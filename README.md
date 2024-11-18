@@ -2,7 +2,7 @@
 
 <img src="resources/divers/gif/64x64.gif" width="400">
 
-Goal of this project is to implement an DCGAN on a paint dataset which contains different art.
+Goal of this project is to implement an GAN on a paint dataset which contains different art.
 This dataset is available here: <a target="blank" href="https://huggingface.co/datasets/huggan/wikiart">Click here</a>
 
 In a first time, to have a base line of which parameters used in our neural network, we resize images to 64x64.
